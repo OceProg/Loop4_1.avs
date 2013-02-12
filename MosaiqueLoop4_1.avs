@@ -1,4 +1,4 @@
-########## AviSynth 2.5 script for my guitar video Loop 4.1
+########## AviSynth 2.5 script for my guitar video Loop 4.1 : https://vimeo.com/58662061
 ########## ===============================================
 ########## Any question or something can get better? oceweb@gmail.com // https://vimeo.com/ocevideo // Licence CC-BY 3.0
 
